@@ -16,3 +16,6 @@
 | Concepts | Counting, Grouping, Group Filtering, Null Handling, Min & Max, Query Basics, Filtering |
 
 The accepted solution is in [`solution.sql`](./solution.sql).
+
+## Notes and Takeaways 
+The problem was straightforward but what i did not think of from the first try is `lower(email)` because their might be difference in cases but the same email like : ('User@Example.com' vs 'user@example.com')
