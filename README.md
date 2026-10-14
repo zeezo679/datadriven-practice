@@ -8,6 +8,7 @@ Scored work from [DataDriven](https://datadriven.io/u/gentle_condor_9568), commi
 
 | Problem | Domain | Difficulty | Solved |
 |---|---|---|---|
+| [Double Vision](./practice/sql/double-vision) | SQL | Easy | 2026-10-14 |
 | [The Crown Jewels](./practice/sql/the-crown-jewels) | SQL | Easy | 2026-10-12 |
 | [Name Recognition](./practice/sql/name-recognition) | SQL | Medium | 2026-10-10 |
 | [First Time Learners Per Day](./practice/sql/first-time-learners-per-day) | SQL | Medium | 2026-10-08 |
