@@ -17,6 +17,3 @@ Scored work from [DataDriven](https://datadriven.io/u/gentle_condor_9568), commi
 
 <!-- datadriven:index:end -->
 
----
-
-Synced by [DataDriven](https://datadriven.io). Solve a problem there and it lands here.
