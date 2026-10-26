@@ -8,6 +8,7 @@ Scored work from [DataDriven](https://datadriven.io/u/gentle_condor_9568), commi
 
 | Problem | Domain | Difficulty | Solved |
 |---|---|---|---|
+| [The Original Keeper](./practice/python/the-original-keeper) | Python | Easy | 2026-10-26 |
 | [Weekend Warriors](./practice/sql/weekend-warriors) | SQL | Easy | 2026-10-26 |
 | [The Dominant Signal](./practice/python/the-dominant-signal) | Python | Easy | 2026-10-16 |
 | [Double Vision](./practice/sql/double-vision) | SQL | Easy | 2026-10-14 |
