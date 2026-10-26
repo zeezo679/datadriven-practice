@@ -1,13 +1,13 @@
 SELECT
   event_type,
-  COUNT(
+  SUM(
     CASE
-      WHEN STRFTIME('%w', CAST(event_timestamp AS TIMESTAMP)) IN ('0', '6') THEN 'WEEKEND'
+      WHEN STRFTIME('%w', CAST(event_timestamp AS TIMESTAMP)) IN ('0', '6') THEN 1 ELSE 0
     END
   ) AS weekend_count,
-  COUNT(
+  SUM(
     CASE
-      WHEN STRFTIME('%w', CAST(event_timestamp AS TIMESTAMP)) IN ('1', '2', '3', '4', '5') THEN 'WEEKDAY'
+      WHEN STRFTIME('%w', CAST(event_timestamp AS TIMESTAMP)) NOT IN ('0', '6') THEN 1 ELSE 0
     END
   ) AS weekday_count
 FROM event_data
