@@ -8,6 +8,7 @@ Scored work from [DataDriven](https://datadriven.io/u/gentle_condor_9568), commi
 
 | Problem | Domain | Difficulty | Solved |
 |---|---|---|---|
+| [Category Sales Summary](./practice/sql/category-sales-summary) | SQL | Easy | 2026-11-11 |
 | [Where Quality Breaks](./practice/sql/where-quality-breaks) | SQL | Easy | 2026-11-11 |
 | [The Original Keeper](./practice/python/the-original-keeper) | Python | Easy | 2026-10-26 |
 | [Weekend Warriors](./practice/sql/weekend-warriors) | SQL | Easy | 2026-10-26 |
