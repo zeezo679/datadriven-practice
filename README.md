@@ -8,6 +8,7 @@ Scored work from [DataDriven](https://datadriven.io/u/gentle_condor_9568), commi
 
 | Problem | Domain | Difficulty | Solved |
 |---|---|---|---|
+| [Power Users by Session Activity](./practice/sql/power-users-by-session-activity) | SQL | Medium | 2026-11-22 |
 | [Spending by Account Status](./practice/sql/spending-by-account-status) | SQL | Medium | 2026-11-15 |
 | [The Forward Fill](./practice/python/the-forward-fill) | Python | Easy | 2026-11-11 |
 | [Category Sales Summary](./practice/sql/category-sales-summary) | SQL | Easy | 2026-11-11 |
